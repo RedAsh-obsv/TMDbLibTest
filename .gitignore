@@ -2,3 +2,4 @@
 /[Tt]emp/
 /[Bb]uild/
 Assets/Scripts/TMDbAPIkey.cs
+Assets/Scripts/TMDbAPIkey.cs.meta
